@@ -24,3 +24,15 @@ http://125hvt.ddns.net:21585/axn/index.m3u8
 
 #EXTINF:-1 group-title="HBO SD"tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 http://125hvt.ddns.net:21585/hbo/index.m3u8
+
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyspnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sky_sports_news_2021_logo.svg/1200px-Sky_sports_news_2021_logo.svg.png",Sky Sports News
+http://p1.cvtv.xyz/ssn?token=live
+
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skypl" tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" catchup="default" catchup-days="2" catchup-source="http://hkg.cvtv.xyz:8080/skypl/index-${start}-${duration}.m3u8",Sky Sport Premier League
+http://p1.cvtv.xyz/pl?token=live
+
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="canalpl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
+http://p1.cvtv.xyz/cp1?token=live
+
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="cpepl" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~cd7b35ad736b1a9a.png/1200x800/quality/80/canalplus-premier-league.png",Canal+ Premier League
+http://p1.cvtv.xyz/cpepl?token=live
