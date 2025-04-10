@@ -33,9 +33,17 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8?cuonghehe
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8?cuonghehe
 
-#EXTINF:-1 tvg-id="sctv4hd" tvg-id="SCTV4" group-title="SCTV" tvg-logo="https://i.imgur.com/6kQooGL.png",SCTV4
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://i.imgur.com/6kQooGL.png",SCTV4
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8?cuonghehe
+
+#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/SCTV5.jpg",SCTV5
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8?cuonghehe
+
+#EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8?cuonghehe
 
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.imgur.com/hLPt0As.png",SCTV7
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
