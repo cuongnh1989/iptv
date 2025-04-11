@@ -153,16 +153,16 @@ http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTINF:-1 group-title="HBO SD"tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 http://125hvt.ddns.net:21585/hbo/index.m3u8
 
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
+#EXTINF:-1 group-title="HBO SD"tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
 http://125hvt.ddns.net:21585/wbtv/index.m3u8
 
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
+#EXTINF:-1 group-title="HBO SD"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
 http://125hvt.ddns.net:21585/discovery/index.m3u8
 
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/LjOE7VC.png",CNN
+#EXTINF:-1 group-title="HBO SD"tvg-logo="https://i.imgur.com/LjOE7VC.png",CNN
 http://125hvt.ddns.net:21585/cnn/index.m3u8
 
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/KZqwTe4.png",TLC
+#EXTINF:-1 group-title="HBO SD"tvg-logo="https://i.imgur.com/KZqwTe4.png",TLC
 http://125hvt.ddns.net:21585/tlc/index.m3u8
 
 #EXTINF:-1 id-xtream="84172" tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1
