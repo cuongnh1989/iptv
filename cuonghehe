@@ -170,6 +170,49 @@ https://sgchill.io.vn/360/135/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.io.vn/360/163/index.m3u8
 
+#EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.imgur.com/imhFxSG.png",SCTV1 HD
+https://rg.hoangducanh.site/sctv1
+#EXTINF:0 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.imgur.com/UpBZOaH.png",SCTV2 HD
+https://rg.hoangducanh.site/sctv2
+#EXTINF:0 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.imgur.com/wZrGAtH.png",SCTV3 HD
+https://rg.hoangducanh.site/sctv3
+#EXTINF:0 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://i.imgur.com/ntSnAMJ.png",SCTV4 HD
+https://rg.hoangducanh.site/sctv4
+#EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 HD
+https://rg.hoangducanh.site/sctv6
+#EXTINF:0 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EdjXUUb.png",SCTV7 HD
+https://rg.hoangducanh.site/sctv7
+#EXTINF:0 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://i.imgur.com/NULoCoA.png",SCTV8 HD
+https://rg.hoangducanh.site/sctv8
+#EXTINF:0 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://i.imgur.com/6dvyvea.png",SCTV9 HD
+https://rg.hoangducanh.site/sctv9
+#EXTINF:0 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://i.imgur.com/AP2o4bW.png",SCTV11 HD 
+https://rg.hoangducanh.site/sctv11
+#EXTINF:0 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://i.imgur.com/5nrSZd8.png",SCTV12 HD
+https://rg.hoangducanh.site/sctv12
+#EXTINF:0 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/45/SCTV13_logo.png/revision/latest/scale-to-width-down/1000?cb=20211211011126&path-prefix=vi",SCTV13 HD
+https://rg.hoangducanh.site/sctv13
+#EXTINF:0 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://i.imgur.com/1yNMyEh.png",SCTV14 HD
+https://rg.hoangducanh.site/sctv14
+#EXTINF:0 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EPwjrlB.png",SCTV15 HD
+https://rg.hoangducanh.site/sctv15
+#EXTINF:0 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.imgur.com/b4ZROQG.png",SCTV16 HD 
+https://rg.hoangducanh.site/sctv16
+#EXTINF:0 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://i.imgur.com/Ghjy4HY.png",SCTV17 HD
+https://rg.hoangducanh.site/sctv17
+#EXTINF:0 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.imgur.com/k2Eg4T4.png",SCTV18 HD
+https://rg.hoangducanh.site/sctv18
+#EXTINF:0 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://i.imgur.com/s4vfvNb.png",SCTV19 HD
+https://rg.hoangducanh.site/sctv19
+#EXTINF:0 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://i.imgur.com/zwfqboB.png",SCTV20 HD
+https://rg.hoangducanh.site/sctv20
+#EXTINF:0 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://i.imgur.com/aHKybQW.png",SCTV21 HD
+https://rg.hoangducanh.site/sctv21
+#EXTINF:0 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.imgur.com/O0HdUpB.png",SCTV22 HD
+https://rg.hoangducanh.site/sctv22
+#EXTINF:0 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV HD Phim Tổng Hợp
+https://rg.hoangducanh.site/sctvpth
+
 #EXTINF:-1 group-title="HBO SD"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
 http://125hvt.ddns.net:21585/axn/index.m3u8
 
@@ -187,6 +230,23 @@ http://125hvt.ddns.net:21585/cnn/index.m3u8
 
 #EXTINF:-1 group-title="HBO SD"tvg-logo="https://i.imgur.com/KZqwTe4.png",TLC
 http://125hvt.ddns.net:21585/tlc/index.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 1 🔴
+https://rg.hoangducanh.site/live1
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 2 🔴
+https://rg.hoangducanh.site/live2
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 3 🔴
+https://rg.hoangducanh.site/live3
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 4 🔴
+https://rg.hoangducanh.site/live4
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 5 🔴
+https://rg.hoangducanh.site/live5
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 6 🔴
+https://rg.hoangducanh.site/live6
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 7 🔴
+https://rg.hoangducanh.site/live7
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 8 🔴
+https://rg.hoangducanh.site/live8
 
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+CINE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
