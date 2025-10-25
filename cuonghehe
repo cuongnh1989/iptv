@@ -28,10 +28,10 @@ https://cloudstreamqh.tek4tv.vn/live/quochoitv_720p.m3u8
 #------------------------VTVCab------------------------#
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTV Cab" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/vtvcab1hd/KenhCoBan",VTVcab 1 - Vie Giải Trí HD
-https://xem.hoiquan.Click/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTV Cab" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/vtvcab19hd/KenhCoBan",VTVcab19 – Vie Dramas
-https://xem.hoiquan.Click/CoBan/vtvcab19-vie-dramas/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab19-vie-dramas/TuyetDoiKhongKinhDoanh.m3u8
 
 #--*.*--HTV--*.*--#
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv1.jpg",HTV1 HD
@@ -98,16 +98,16 @@ https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" group-title="In The Box" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/boxhits/KenhCoBan",Box Hits
-https://xem.hoiquan.Click/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1hd" group-title="In The Box" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/boxmovie1hd/KenhCoBan",Box Movie 1 HD
-https://xem.hoiquan.Click/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassichd" group-title="In The Box" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/hollywoodclassichd/KenhCoBan",Hollywood Classic HD
-https://xem.hoiquan.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" group-title="In The Box" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/inthebox/KenhCoBan",In The Box
-https://xem.hoiquan.Click/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 group-title="HBO SD"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
 http://125hvt.ddns.net:21585/axn/index.m3u8
@@ -126,19 +126,6 @@ http://125hvt.ddns.net:21585/cnn/index.m3u8
 
 #EXTINF:-1 group-title="HBO SD"tvg-logo="https://i.imgur.com/KZqwTe4.png",TLC
 http://125hvt.ddns.net:21585/tlc/index.m3u8
-
-#EXTINF:-1 tvg-id="hbohd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/hbohd/DoiTac-BMT",HBO HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.Click/BMT/hbohd/DoiTacDongGop.m3u8
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/cinemaxhd/DoiTac-BMT",CINEMAX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.Click/BMT/cinemaxhd/DoiTacDongGop.m3u8
-#EXTINF:-1 tvg-id="axnhd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/axnhd/DoiTac-BMT",AXN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.Click/BMT/axnhd/DoiTacDongGop.m3u8
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/cinemaworldhd/DoiTac-BMT",CINEMAWORLD HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.Click/BMT/cinemaworldhd/DoiTacDongGop.m3u8
 
 --- 📺 Sports | 4K UHD
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD
