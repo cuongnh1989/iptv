@@ -27,11 +27,32 @@ https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv6hd.jpg",VTV Cần Thơ FPT
 https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
+https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://vnepg.site/logos/176.png",VietNam Today
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
+
 #EXTINF:0 tvg-id="antvhd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/35/ANTV_HD_logo_2016.png/revision/latest?cb=20210924092419&path-prefix=vi",An Ninh TV
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="quochoi" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png",Quốc Hội TV
-https://cloudstreamqh.tek4tv.vn/live/quochoitv_720p.m3u8
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://i.imgur.com/Je3K25E.png",HanoiTV1 HD
+https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://i.imgur.com/szivqh2.png",HanoiTV2 HD
+https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="thainguyen" group-title="Địa phương" tvg-logo="https://i.imgur.com/6HQeLRw.png",TN | TH Thái Nguyên
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&pkg=pkg11.hni
 
 #------------------------VTVCab------------------------#
 
@@ -126,23 +147,20 @@ https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=212&token=202
 #EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823484363/34cadc4f9c06_640_360.png", Planet Earth
 https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=135&token=2025
 
-#EXTINF:-1 group-title="HBO SD"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
-http://125hvt.ddns.net:21585/axn/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
+https://kupjta.online/iptv/5/385/index.m3u8
 
-#EXTINF:-1 group-title="HBO SD"tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-http://125hvt.ddns.net:21585/hbo/index.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CINEMAX.jpg", Cinemax HD
+https://kupjta.online/iptv/5/386/index.m3u8
 
-#EXTINF:-1 group-title="HBO SD"tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
-http://125hvt.ddns.net:21585/wbtv/index.m3u8
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc tế" tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/6b/ba/a3/36/60/0a/6ba36-pwarnerhd-channel-unkn.png",Warner TV
+https://kupjta.online/iptv/5/361/index.m3u8
 
-#EXTINF:-1 group-title="HBO SD"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
-http://125hvt.ddns.net:21585/discovery/index.m3u8
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc tế" tvg-logo="https://freight.cargo.site/w/1200/i/3cf72163d993c4d87263e6d4990ec4ccdd1e14b09ce89e6e35dee1de83ef4985/CN.jpg",Cartoon Network
+https://kupjta.online/iptv/5/391/index.m3u8
 
-#EXTINF:-1 group-title="HBO SD"tvg-logo="https://i.imgur.com/LjOE7VC.png",CNN
-http://125hvt.ddns.net:21585/cnn/index.m3u8
-
-#EXTINF:-1 group-title="HBO SD"tvg-logo="https://i.imgur.com/KZqwTe4.png",TLC
-http://125hvt.ddns.net:21585/tlc/index.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc tế" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/c7/7f/fc/c6/69/9b/c7fc6-pdiscoveryhd-channel-unkn.png",Discovery
+https://kupjta.online/iptv/5/363/index.m3u8
 
 --- 📺 Sports | 4K UHD
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD
