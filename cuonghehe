@@ -3,10 +3,10 @@
 #EXTINF:0 tvg-id="vtv1hd" group-title="Bong Da" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg",MU
 https://cdn-hls.taoxanh.biz/live/69b6b3b6326d9_79/index.m3u8
 
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125544_6dff7e1a.png",21h00 ngày 15/03 Manchester United vs Aston Villa (Chuối Chiên) FHD1
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/33.png",21h00 15/03 Manchester United vs Aston Villa (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
 
 #------------------------VTV------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg",VTV1 FPT
