@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="Bong Da" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg",MU
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+https://cdn-hls.taoxanh.biz/live/69b6b3b6326d9_79/index.m3u8
 
 #------------------------VTV------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg",VTV1 FPT
