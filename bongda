@@ -10,3 +10,7 @@ https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/e60e8f4df3c2fc5131a22f10189a429d.png",19h30 ngày 21/03 Brighton Hove Albion vs Liverpool [TẠ BIÊN GIỚI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1774103019-0-0-52c577f7706506f8feda3d59353cfe99
+
+#EXTINF:0 group-title="Bun Cha" tvg-logo="https://sta.vnres.co/file/common/20260317/e60e8f4df3c2fc5131a22f10189a429d.png",19h30 ngày 21/03 Brighton Hove Albion vs Liverpool 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://cdn-hls.taoxanh.biz/live/69be890370a6a_79/index.m3u8?expire=1774699395&sign=9acea4d18990221aa3c7e85c1541c0b6
