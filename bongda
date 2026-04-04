@@ -3,71 +3,15 @@
 #EXTINF:-1 group-title="Bún chả",BLV Cá Chép
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
-https://cdn-hls.taoxanh.biz/live/69cf922fbeb13_79/index.m3u8
+https://cdn-hls.taoxanh.biz/live/69d0ed6624440_4908/index.m3u8
 
 #EXTINF:-1 group-title="Bún chả",BLV Lò A Páo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
-https://cdn-hls.taoxanh.biz/live/69cf9c9f2443f_85514/index.m3u8
+https://cdn-hls.taoxanh.biz/live/69d0f30824440_151255/index.m3u8
 
 #EXTINF:-1 group-title="Bún chả",BLV Bún Than
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
-https://cdn-hls.taoxanh.biz/live/69cf9da52443f_103/index.m3u8
+https://cdn-hls.taoxanh.biz/live/69d0e140beb15_85514/index.m3u8
 
-#EXTINF:-1 group-title="Bún chả",BLV Cafe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
-https://cdn-hls.taoxanh.biz/live/69cf9e4bbeb13_133172/index.m3u8
-
-#EXTINF:-1 group-title="Bún chả",BLV Bún Đậu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
-https://cdn-hls.taoxanh.biz/live/69cf9d262443f_28/index.m3u8
-
-#EXTINF:-1 group-title="Bún chả",BLV Lucky
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
-https://cdn-hls.taoxanh.biz/live/69cfa414beb13_72787/index.m3u8
-
-#EXTINF:-1 group-title="Bún chả",BLV Dế Mèn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
-https://cdn-hls.taoxanh.biz/live/69cfac362443f_74012/index.m3u8
-
-#EXTINF:-1 group-title="Bún chả",BLV Tiger
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
-https://cdn-hls.taoxanh.biz/live/69cf9f5fbeb13_124958/index.m3u8
-
-#EXTINF:-1 group-title="Bún chả",BLV A Đệ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
-https://cdn-hls.taoxanh.biz/live/69cfb00dbeb13_136682/index.m3u8
-
-#EXTINF:-1 group-title="Bún chả",BLV Giữ Lửa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
-https://cdn-hls.taoxanh.biz/live/69cfb60a2443f_88642/index.m3u8
-
-#EXTINF:-1 group-title="Bún chả",Việt Nam vs Bangladesh | 19:00 26/03
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.net/
-https://live.alilicloud.com/live/7ad2ea9f3b042af7810ccb98b4eaaea9/playlist.m3u8
-
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/e60e8f4df3c2fc5131a22f10189a429d.png",19h30 ngày 21/03 Brighton Hove Albion vs Liverpool [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1774102659-0-0-3f7f825dff27248fed0a44b240b8b5a9
-
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/51.png",19h30 21/03 Brighton vs Liverpool (Hội Quán) FHD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
-
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/e60e8f4df3c2fc5131a22f10189a429d.png",19h30 ngày 21/03 Brighton Hove Albion vs Liverpool [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1774103019-0-0-52c577f7706506f8feda3d59353cfe99
-
-#EXTINF:0 group-title="Bun Cha" tvg-logo="https://sta.vnres.co/file/common/20260317/e60e8f4df3c2fc5131a22f10189a429d.png",19h30 ngày 21/03 Brighton Hove Albion vs Liverpool 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://cdn-hls.taoxanh.biz/live/69be890370a6a_79/index.m3u8?expire=1774699395&sign=9acea4d18990221aa3c7e85c1541c0b6
