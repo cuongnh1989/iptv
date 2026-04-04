@@ -1,4 +1,55 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="Bún chả",BLV Cá Chép
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
+https://cdn-hls.taoxanh.biz/live/69cf922fbeb13_79/index.m3u8
+
+#EXTINF:-1 group-title="Bún chả",BLV Lò A Páo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
+https://cdn-hls.taoxanh.biz/live/69cf9c9f2443f_85514/index.m3u8
+
+#EXTINF:-1 group-title="Bún chả",BLV Bún Than
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
+https://cdn-hls.taoxanh.biz/live/69cf9da52443f_103/index.m3u8
+
+#EXTINF:-1 group-title="Bún chả",BLV Cafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
+https://cdn-hls.taoxanh.biz/live/69cf9e4bbeb13_133172/index.m3u8
+
+#EXTINF:-1 group-title="Bún chả",BLV Bún Đậu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
+https://cdn-hls.taoxanh.biz/live/69cf9d262443f_28/index.m3u8
+
+#EXTINF:-1 group-title="Bún chả",BLV Lucky
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
+https://cdn-hls.taoxanh.biz/live/69cfa414beb13_72787/index.m3u8
+
+#EXTINF:-1 group-title="Bún chả",BLV Dế Mèn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
+https://cdn-hls.taoxanh.biz/live/69cfac362443f_74012/index.m3u8
+
+#EXTINF:-1 group-title="Bún chả",BLV Tiger
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
+https://cdn-hls.taoxanh.biz/live/69cf9f5fbeb13_124958/index.m3u8
+
+#EXTINF:-1 group-title="Bún chả",BLV A Đệ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
+https://cdn-hls.taoxanh.biz/live/69cfb00dbeb13_136682/index.m3u8
+
+#EXTINF:-1 group-title="Bún chả",BLV Giữ Lửa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
+https://cdn-hls.taoxanh.biz/live/69cfb60a2443f_88642/index.m3u8
+
 #EXTINF:-1 group-title="Bún chả",Việt Nam vs Bangladesh | 19:00 26/03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.net/
