@@ -14,8 +14,8 @@ https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hd.jpg",VTV5
 https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv6hd.jpg",VTV Cần Thơ
-https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv6hd.jpg",VTV 10
+https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
