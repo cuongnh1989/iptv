@@ -252,3 +252,26 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb4160ea553a321d899553e4e796fec2:bea5a07157e0c4d17b11ab399517f952
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+
+#EXTINF:-1 group-title="Phim" tvg-logo="https://phim.nguonc.com/public/images/Post/6/nguyet-lan-y-ky.jpg", Nguyệt Lân Ỷ Kỷ - Tập 1
+https://embed15.streamc.xyz/embed.php?hash=534c7f8ef19e728b2c8a25f786a263f0
+
+#EXTINF:-1 group-title="Phim" tvg-logo="https://phim.nguonc.com/public/images/Post/6/nguyet-lan-y-ky.jpg", Nguyệt Lân Ỷ Kỷ - Tập 2
+https://embed15.streamc.xyz/embed.php?hash=9dd5316c1f2603a5b6241d6a9dcf8416
+
+#EXTINF:-1 group-title="Phim" tvg-logo="https://phim.nguonc.com/public/images/Post/6/nguyet-lan-y-ky.jpg", Nguyệt Lân Ỷ Kỷ - Tập 3
+https://embed18.streamc.xyz/embed.php?hash=2daca13dd4234ddd9f058ac4eb837a71
+4|https://embed15.streamc.xyz/embed.php?hash=98bea201a8e50a4f019f282252655c11
+5|https://embed18.streamc.xyz/embed.php?hash=3549fd828024f80a915b71887cab37c6
+6|https://embed14.streamc.xyz/embed.php?hash=0322eeae1c0257e6a585bd901ea7331b
+7|https://embed11.streamc.xyz/embed.php?hash=c34dc9234e94b7c504d212c83c76ac6f
+8|https://embed14.streamc.xyz/embed.php?hash=83d511dcb566d2d8c7b7d13c578e6f1f
+9|https://embed15.streamc.xyz/embed.php?hash=491b99350d0fb3b8d2f7bd431a4f0f33
+10|https://embed15.streamc.xyz/embed.php?hash=6bd063190d2ae7d90990f8a365c455e9
+11|https://embed14.streamc.xyz/embed.php?hash=dd77dc5c02b21e218da6c24f6496f94d
+12|https://embed15.streamc.xyz/embed.php?hash=437804ec7a258cf59ce66fa33da3c750
+13|https://embed14.streamc.xyz/embed.php?hash=de66bc0a9a887d367c074038b2e252ba
+14|https://embed15.streamc.xyz/embed.php?hash=7687ae58c1e82a337dc600ca73e9aae2
+15|https://embed15.streamc.xyz/embed.php?hash=8d3cc84c96ab86f05f42cb64328ea9a5
+16|https://embed18.streamc.xyz/embed.php?hash=5e4579eed581e788c23acb6e23fcf48b
+17|https://embed14.streamc.xyz/embed.php?hash=6aaa2b9c70db6c262c3938e271c9f440
