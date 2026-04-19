@@ -260,6 +260,11 @@ https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
 #EXTINF:-1 tvg-id="nowsports3.hk" group-title="Thể Thao Quốc Tế" tvg-logo="https://i.imgur.com/kgo9uwH.png", Now Sport EPL 3
 https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
 
+#EXTINF:-1 group-title="Thập Cẩm",MCI vs ARS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://thapcamtvbc1.mobi/
+https://cdn-hls.phogatv8.com/live/69e4ee45137e2_151/index.m3u8
+
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Aqua
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live5.msrktz.app/live/18812304.m3u8
