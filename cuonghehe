@@ -41,6 +41,9 @@ https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="thainguyen" group-title="Địa phương" tvg-logo="https://i.imgur.com/6HQeLRw.png",Thái Nguyên
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&pkg=pkg11.hni
 
+#EXTINF:-1 tvg-id="lovenature4k" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.postimg.cc/t7QJGk0R/Love-Nature.png",LOVE NATURE
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+
 #------------------------VTVCab------------------------#
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/viegiaitri.png", ON Vie Giải Trí
