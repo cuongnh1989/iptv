@@ -7,8 +7,8 @@ https://cdn-hls.taoxanh.biz/live/69da4be1beb25_151255/index.m3u8
 
 #EXTINF:-1 group-title="Bún chả",BLV Lò A Páo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.mobi/
-https://cdn-hls.taoxanh.biz/live/69d0f30824440_151255/index.m3u8
+#EXTVLCOPT:http-referrer=https://bunchatv2.net/
+https://cdn-hls.taoxanh.biz/live/69ece57b203f3_85514/index.m3u8
 
 #EXTINF:-1 group-title="Bún chả",BLV Bún Than
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
