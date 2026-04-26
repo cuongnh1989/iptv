@@ -1,9 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Thập Cẩm",Rayo Vallecano vs Real Sociedad 19:00 ngày 26/04 Spanish La Liga
+#EXTINF:-1 group-title="Cola TV",Rayo Vallecano vs Real Sociedad 19:00 ngày 26/04 Spanish La Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://thapcam24h.net/
-https://cdn-hls.phogatv8.com/live/69edec4e137e3_35/index.m3u8
+https://live5.msrktz.app/live/90865415.m3u8
 
 #EXTINF:-1 group-title="Bún chả",BLV Lò A Páo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
