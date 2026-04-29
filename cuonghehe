@@ -271,7 +271,7 @@ https://t.freetv.fun/live/hub-premier-2-28.m3u8
 #EXTINF:-1 group-title="Thập Cẩm",Rayo Vallecano vs Real Sociedad 19:00 ngày 26/04 Spanish La Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://thapcam24h.net/
-https://cdn-hls.phogatv8.com/live/69f0ba2251ddb_154/index.m3u8?
+https://cdn-hls.phogatv8.com/live/69f181b351ddb_145/index.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Aqua
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
