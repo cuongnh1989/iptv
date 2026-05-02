@@ -9,3 +9,14 @@ https://cdn-hls.phogatv8.com/live/69f5fb3751ddc_1549/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://thapcam24h.net/
 https://cdn-hls.phogatv8.com/live/69f5f4c051ddc_151/index.m3u8
+
+#EXTINF:-1 tvg-id="exyuarenapremium1fhd" tvg-name="EXYU - ARENA PREMIUM 1 FHD" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="EU | EXYU | SPORTSKI KANALI",EXYU - ARENA PREMIUM 1 FHD
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/273118.ts
+#EXTINF:-1 tvg-id="exyuarenapremium2fhd" tvg-name="EXYU - ARENA PREMIUM 2 FHD" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="EU | EXYU | SPORTSKI KANALI",EXYU - ARENA PREMIUM 2 FHD
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/273119.ts
+#EXTINF:-1 tvg-id="exyuarenapremium3fhd" tvg-name="EXYU - ARENA PREMIUM 3 FHD" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="EU | EXYU | SPORTSKI KANALI",EXYU - ARENA PREMIUM 3 FHD
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/273120.ts
+#EXTINF:-1 tvg-id="exyuarenapremium4fhd" tvg-name="EXYU - ARENA PREMIUM 4 FHD" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="EU | EXYU | SPORTSKI KANALI",EXYU - ARENA PREMIUM 4 FHD
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1287060.ts
+#EXTINF:-1 tvg-id="exyuarenapremium5fhd" tvg-name="EXYU - ARENA PREMIUM 5 FHD" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="EU | EXYU | SPORTSKI KANALI",EXYU - ARENA PREMIUM 5 FHD
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1287061.ts
