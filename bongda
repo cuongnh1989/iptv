@@ -1,24 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Thap Cam TV",BLV Lềnh
+#EXTINF:-1 group-title="Thap Cam TV",Newcastle United vs Brighton Hove Albion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://thapcam24h.net/
-https://cdn-hls.phogatv8.com/live/69f5d107137e4_1549/index.m3u8
+https://cdn-hls.phogatv8.com/live/69f5fb3751ddc_1549/index.m3u8
 
-#EXTINF:-1 group-title="Bun Cha TV",BLV Bún Đậu
+#EXTINF:-1 group-title="Thap Cam TV",FC Bayern Munich vs 1. FC Heidenheim 1846
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/
-https://cdn-hls.taoxanh.biz/live/69f5ce2c203f5_28/index.m3u8
-
-#EXTINF:-1 group-title="Bun Cha TV",BLV Bún Đậu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilaccz.tv/
-https://live1.pro2cdnlive.com/live/channel2.m3u8
-
-#EXTINF:-1 group-title="Chuối Chiên TV",BLV Lá Chanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chanhhd.flv
-
-#EXTINF:-1 group-title="Chuối Chiên TV",BLV Lá Chanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chanhhd.m3u8
+#EXTVLCOPT:http-referrer=https://thapcam24h.net/
+https://cdn-hls.phogatv8.com/live/69f5f4c051ddc_151/index.m3u8
