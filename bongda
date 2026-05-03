@@ -1,45 +1,162 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",03/05 09:30 PM | Manchester United vs Liverpool (Hub Premier 2 (4K))
+http://lunar.pm:8080/Mrdon/4782314540/110289
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-2.png",03/05 09:30 PM | Manchester United vs Liverpool (Hub Premier 2 (4K))
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/57436.ts
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png",03/05 09:30 PM | Manchester United vs Liverpool (Hub Premier 1)
+http://lunar.pm:8080/Mrdon/4782314540/110288
 #EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png",03/05 09:30 PM | Manchester United vs Liverpool (Hub Premier 1)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts
-#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://freeshot.live/upload/source/SkySportPremierLeague-logo.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sport Premier League Germany)
-http://cdn.tv-rds.workers.dev/SkySportPremierLeagueDE.m3u8
-#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086",03/05 09:30 PM | Manchester United vs Liverpool (NBC Sports Network)
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://sonic.shliv.fun/crchd/assets/tvlogos/SkySportsPremierLeague.jpg",03/05 09:30 PM | Manchester United vs Liverpool (V Sport Premier League HD)
-https://v.antsports.tv/live/24/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",03/05 09:30 PM | Manchester United vs Liverpool (V Sport Premier League HD)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2182
-#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",03/05 09:30 PM | Manchester United vs Liverpool (V Sport Premier League HD)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2181
-#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://sonic.shliv.fun/crchd/assets/tvlogos/SkySportsMainEvent.jpg",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sports Main Event HD)
-https://v.antsports.tv/live/20/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sports Main Event HD)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/58925.ts
-#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sports Main Event HD)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/16563.ts
-#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sports Main Event HD)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/59265.ts
-#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sports Main Event HD)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2185
-#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sports Main Event HD)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2184
-#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://freeshot.live/upload/source/sky-sports-main-event-logo.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sports Main Event HD)
-http://cdn.tv-rds.workers.dev/SkySportsMainEvent.m3u8
-#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sport Deutsch UHD)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2193
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://freeshot.live/upload/source/Sky-Sport-Max-logo.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sport Max Italia HD)
+http://cdn.tv-rds.workers.dev/SkySportMaxIT.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sport Max Italia HD)
+http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/145813.ts
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://sonic.shliv.fun/crchd/assets/tvlogos/SkySportsMix.jpg",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sport Max Italia HD)
+https://v.antsports.tv/live/25/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",03/05 09:30 PM | Manchester United vs Liverpool (beIN Sports MENA 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://young-surf-88a9.yesbefere.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-max-1.m3u8
-#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",03/05 09:30 PM | Manchester United vs Liverpool (beIN Sports Türkiye 3 HD)
-http://99.27.51.147:8080/BeinSport3/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://sender.epglogos.de/302x190_w/12181.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sport Premier League DE HD)
+http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/129300.ts
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://freeshot.live/upload/source/SkySportPremierLeague-logo.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sport Premier League DE HD)
+http://cdn.tv-rds.workers.dev/SkySportPremierLeagueDE.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://sonic.shliv.fun/crchd/assets/tvlogos/SkySportsPremierLeague.jpg",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sport Premier League DE HD)
+https://v.antsports.tv/live/24/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sport Premier League DE HD)
+https://cdn-2.ttvb.eu.org/api/Sky-Sports-EPL/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sport Premier League DE HD)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/16559.ts
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sport Premier League DE HD)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/58924.ts
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sport Premier League DE HD)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2182
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sport Premier League DE HD)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2181
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-premier-league-uk.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sport Premier League DE HD)
+http://lunar.pm:8080/live/Mrdon/4782314540/100773.ts
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://freeshot.live/upload/source/sky-sports-premier-league_logo.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sport Premier League DE HD)
+http://cdn.tv-rds.workers.dev/SkySportsPremierLeague.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-3-logo.png",03/05 09:30 PM | Manchester United vs Liverpool (ESPN 1 Brazil HD)
+http://cdn.tv-rds.workers.dev/ESPN3BR.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://freeshot.live/upload/source/Espn_4_logo.png",03/05 09:30 PM | Manchester United vs Liverpool (ESPN 1 Brazil HD)
+http://cdn.tv-rds.workers.dev/ESPN4BR.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-5-logo.png",03/05 09:30 PM | Manchester United vs Liverpool (ESPN 1 Brazil HD)
+http://cdn.tv-rds.workers.dev/ESPN5BR.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-brazil.png",03/05 09:30 PM | Manchester United vs Liverpool (ESPN 1 Brazil HD)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/803
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://sonic.shliv.fun/crchd/assets/tvlogos/SkySportsMainEvent.jpg",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sports Main Event UHD)
+https://v.antsports.tv/live/20/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sports Main Event UHD)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/58925.ts
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sports Main Event UHD)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/16563.ts
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sports Main Event UHD)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/59265.ts
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sports Main Event UHD)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2185
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sports Main Event UHD)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2184
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sports Main Event UHD)
+http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/35243
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sports Main Event UHD)
+http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/137720
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://freeshot.live/upload/source/sky-sports-main-event-logo.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sports Main Event UHD)
+http://cdn.tv-rds.workers.dev/SkySportsMainEvent.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Main%20Event.png?raw=true",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sports Main Event UHD)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527639&extension=ts
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",03/05 09:30 PM | Manchester United vs Liverpool (Diema Sport 2 4K)
+http://213.169.39.30:5136
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",03/05 09:30 PM | Manchester United vs Liverpool (Diema Sport 2 4K)
+http://45.9.44.143:5020/play/a03a/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",03/05 09:30 PM | Manchester United vs Liverpool (Diema Sport 2 4K)
+http://de.online24.pm/play/51003/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",03/05 09:30 PM | Manchester United vs Liverpool (Diema Sport 2 4K)
+http://92.247.25.42:11172/
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://i.ibb.co.com/crWgv5z/vsportplus.png",03/05 09:30 PM | Manchester United vs Liverpool (V Sport Premium HD)
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport_pluss_hd_live/sm_viasport_pluss_hd_live.isml/playlist.mpd
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Golf.png?raw=true",03/05 09:30 PM | Manchester United vs Liverpool (Sky Go UK)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527623&extension=ts
 #EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",03/05 09:30 PM | Manchester United vs Liverpool (beIN Sports Türkiye 3 HD)
 http://145.239.5.177:80/559/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",03/05 09:30 PM | Manchester United vs Liverpool (beIN Sports Türkiye 3 HD)
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",03/05 09:30 PM | Manchester United vs Liverpool (beIN Sports Türkiye 3 HD)
 http://77.137.40.221:8000/play/a01h
 #EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",03/05 09:30 PM | Manchester United vs Liverpool (beIN Sports Türkiye 3 HD)
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652312.ts
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/03E8ED19-B3A5-44F1-9176-4EC1FD68B0A1/0-16x9.png?width=530",03/05 09:30 PM | Manchester United vs Liverpool (beIN Sports Türkiye 3 HD)
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein3
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",03/05 09:30 PM | Manchester United vs Liverpool (beIN Sports Türkiye 3 HD)
+#EXTVLCOPT:http-user-agent=googleusercontent
 https://st11.lol/static/bs3.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",03/05 09:30 PM | Manchester United vs Liverpool (beIN Sports Türkiye 3 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://young-surf-88a9.yesbefere.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",03/05 09:30 PM | Manchester United vs Liverpool (beIN Sports Türkiye 3 HD)
+http://5678999.life:2082/adamusa1242025/attalah77448866/333803
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",03/05 09:30 PM | Manchester United vs Liverpool (beIN Sports Türkiye 3 HD)
+http://5678999.life:2082/adamusa1242025/attalah77448866/333804
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png",03/05 09:30 PM | Manchester United vs Liverpool (beIN Sports Türkiye 3 HD)
+http://5678999.life:2082/adamusa1242025/attalah77448866/420135
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",03/05 09:30 PM | Manchester United vs Liverpool (Astro Grandstand HD)
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSS3.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-Premier-League-logo.png",03/05 09:30 PM | Manchester United vs Liverpool (V Sport Premier League HD)
+http://cdn.tv-rds.workers.dev/NOVASPORTSPL.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086",03/05 09:30 PM | Manchester United vs Liverpool (NBC Sports Network)
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png",03/05 09:30 PM | Manchester United vs Liverpool (NBC Sports Network)
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418183
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png",03/05 09:30 PM | Manchester United vs Liverpool (Sky Sport Deutsch UHD)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2193
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",03/05 09:30 PM | Manchester United vs Liverpool (Futbol TV Tajikistan)
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/telemundo.png",03/05 09:30 PM | Manchester United vs Liverpool (Telemundo)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/23368.ts
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",03/05 09:30 PM | Manchester United vs Liverpool (Telemundo)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",03/05 09:30 PM | Manchester United vs Liverpool (Telemundo)
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://sonic.shliv.fun/crchd/assets/tvlogos/SkySportsMainEvent.jpg",03/05 09:30 PM | Manchester-United vs Liverpool (Sky Sports Main Event)
+https://v.antsports.tv/live/20/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",03/05 09:30 PM | Manchester-United vs Liverpool (Sky Sports Main Event)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/58925.ts
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",03/05 09:30 PM | Manchester-United vs Liverpool (Sky Sports Main Event)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/16563.ts
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",03/05 09:30 PM | Manchester-United vs Liverpool (Sky Sports Main Event)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/59265.ts
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",03/05 09:30 PM | Manchester-United vs Liverpool (Sky Sports Main Event)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2185
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",03/05 09:30 PM | Manchester-United vs Liverpool (Sky Sports Main Event)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2184
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",03/05 09:30 PM | Manchester-United vs Liverpool (Sky Sports Main Event)
+http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/35243
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",03/05 09:30 PM | Manchester-United vs Liverpool (Sky Sports Main Event)
+http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/137720
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://freeshot.live/upload/source/sky-sports-main-event-logo.png",03/05 09:30 PM | Manchester-United vs Liverpool (Sky Sports Main Event)
+http://cdn.tv-rds.workers.dev/SkySportsMainEvent.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Main%20Event.png?raw=true",03/05 09:30 PM | Manchester-United vs Liverpool (Sky Sports Main Event)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527639&extension=ts
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://sender.epglogos.de/302x190_w/12181.png",03/05 09:30 PM | Manchester-United vs Liverpool (Sky Sports Premier League)
+http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/129300.ts
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://freeshot.live/upload/source/SkySportPremierLeague-logo.png",03/05 09:30 PM | Manchester-United vs Liverpool (Sky Sports Premier League)
+http://cdn.tv-rds.workers.dev/SkySportPremierLeagueDE.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://sonic.shliv.fun/crchd/assets/tvlogos/SkySportsPremierLeague.jpg",03/05 09:30 PM | Manchester-United vs Liverpool (Sky Sports Premier League)
+https://v.antsports.tv/live/24/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",03/05 09:30 PM | Manchester-United vs Liverpool (Sky Sports Premier League)
+https://cdn-2.ttvb.eu.org/api/Sky-Sports-EPL/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",03/05 09:30 PM | Manchester-United vs Liverpool (Sky Sports Premier League)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/16559.ts
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",03/05 09:30 PM | Manchester-United vs Liverpool (Sky Sports Premier League)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/58924.ts
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",03/05 09:30 PM | Manchester-United vs Liverpool (Sky Sports Premier League)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2182
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png",03/05 09:30 PM | Manchester-United vs Liverpool (Sky Sports Premier League)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2181
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-premier-league-uk.png",03/05 09:30 PM | Manchester-United vs Liverpool (Sky Sports Premier League)
+http://lunar.pm:8080/live/Mrdon/4782314540/100773.ts
+#EXTINF:-1 tvg-id="" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://freeshot.live/upload/source/sky-sports-premier-league_logo.png",03/05 09:30 PM | Manchester-United vs Liverpool (Sky Sports Premier League)
+http://cdn.tv-rds.workers.dev/SkySportsPremierLeague.m3u8
 
 #EXTINF:-1 tvg-id="deskysportpremierleague4k" tvg-name="DE - SKY SPORT PREMIER LEAGUE 4K" tvg-logo="https://go4.pw/germany/sky_prem2.png" group-title="4K UHD SPORT",DE - SKY SPORT PREMIER LEAGUE 4K
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1030402.ts
