@@ -256,6 +256,9 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=eb4160ea553a321d899553e4e796fec2:bea5a07157e0c4d17b11ab399517f952
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 
+#EXTINF:-1 group-title="S8TV", MU vs LIV
+https://3057644414.global.cdnfastest.com/live/manu-liv-prem/index.m3u8
+
 #EXTINF:-1 tvg-id="nowsports1.hk" group-title="Thể Thao Quốc Tế" tvg-logo="https://i.imgur.com/3BbhTQX.png", Now Sport EPL 1
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 #EXTINF:-1 tvg-id="nowsports2.hk" group-title="Thể Thao Quốc Tế" tvg-logo="https://i.imgur.com/wkmjtNT.png", Now Sport EPL 2
