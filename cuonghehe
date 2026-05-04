@@ -272,6 +272,40 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-2.png", Hub Premier 2 (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57436.ts
 
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
+
+#EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47866
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/48443
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/48444
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 3 (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/48445
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png", DAZN 4 (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/48446
+
+#EXTINF:-1 tvg-id="arbeinsports14k" tvg-name="AR - BEIN SPORTS 1 4K" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="4K UHD SPORT",AR - BEIN SPORTS 1 4K
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/203885.ts
+#EXTINF:-1 tvg-id="arbeinsports14k²" tvg-name="AR - BEIN SPORTS 1 4K²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="4K UHD SPORT",AR - BEIN SPORTS 1 4K²
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/552067.ts
+#EXTINF:-1 tvg-id="arbeinsports1uhd" tvg-name="AR - BEIN SPORTS 1 UHD" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="4K UHD SPORT",AR - BEIN SPORTS 1 UHD
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/149613.ts
+
+#EXTINF:-1 tvg-id="deskysportnews4k" tvg-name="DE - SKY SPORT NEWS 4K" tvg-logo="https://go4.pw/germany/sky_mix2.png" group-title="4K UHD SPORT",DE - SKY SPORT NEWS 4K
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1030378.ts
+#EXTINF:-1 tvg-id="deskysportnews4k²" tvg-name="DE - SKY SPORT NEWS 4K²" tvg-logo="https://go4.pw/germany/sky_mix2.png" group-title="4K UHD SPORT",DE - SKY SPORT NEWS 4K²
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1140267.ts
+#EXTINF:-1 tvg-id="deskysportpremierleague4k" tvg-name="DE - SKY SPORT PREMIER LEAGUE 4K" tvg-logo="https://go4.pw/germany/sky_prem2.png" group-title="4K UHD SPORT",DE - SKY SPORT PREMIER LEAGUE 4K
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1030402.ts
+#EXTINF:-1 tvg-id="deskysportpremierleague4k²" tvg-name="DE - SKY SPORT PREMIER LEAGUE 4K²" tvg-logo="https://go4.pw/germany/sky_prem2.png" group-title="4K UHD SPORT",DE - SKY SPORT PREMIER LEAGUE 4K²
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1140272.ts
+
 #EXTINF:-1 tvg-id="exyuarenapremium1fhd" tvg-name="EXYU - ARENA PREMIUM 1 FHD" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="EU | EXYU | SPORTSKI KANALI",EXYU - ARENA PREMIUM 1 FHD
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/273118.ts
 #EXTINF:-1 tvg-id="exyuarenapremium2fhd" tvg-name="EXYU - ARENA PREMIUM 2 FHD" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="EU | EXYU | SPORTSKI KANALI",EXYU - ARENA PREMIUM 2 FHD
