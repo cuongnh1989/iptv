@@ -266,10 +266,11 @@ https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
 #EXTINF:-1 tvg-id="nowsports3.hk" group-title="Thể Thao Quốc Tế" tvg-logo="https://i.imgur.com/kgo9uwH.png", Now Sport EPL 3
 https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
 
-#EXTINF:-1 tvg-name="HUBPREMIER EFL 1" tvg-id="" tvg-country="Thể Thao Quốc Tế" tvg-language="Singapore" tvg-logo="https://epg.pw/media/images/channel/2022/08/20/large/20220820205053968567_10.PNG" group-title="Sports",HUBPREMIER EFL 1
-https://t.freetv.fun/live/hub-premier-1-28.m3u8
-#EXTINF:-1 tvg-name="HUBPREMIER EFL 2" tvg-id="" tvg-country="Thể Thao Quốc Tế" tvg-language="Singapore" tvg-logo="https://epg.pw/media/images/channel/2022/09/20/large/20220920223013988266_34.jpg" group-title="Sports",HUBPREMIER EFL 2
-https://t.freetv.fun/live/hub-premier-2-28.m3u8
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png", Hub Premier 1 (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts
+
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-2.png", Hub Premier 2 (g)
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/57436.ts
 
 #EXTINF:-1 tvg-id="exyuarenapremium1fhd" tvg-name="EXYU - ARENA PREMIUM 1 FHD" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="EU | EXYU | SPORTSKI KANALI",EXYU - ARENA PREMIUM 1 FHD
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/273118.ts
