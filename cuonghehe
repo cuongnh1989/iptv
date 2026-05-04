@@ -266,6 +266,9 @@ https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
 #EXTINF:-1 tvg-id="nowsports3.hk" group-title="Thể Thao Quốc Tế" tvg-logo="https://i.imgur.com/kgo9uwH.png", Now Sport EPL 3
 https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
 
+#EXTINF:-1 tvg-id="arbeinsports1ultra4k" tvg-name="AR - BEIN SPORTS 1 ULTRA 4K" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="4K UHD SPORT",AR - BEIN SPORTS 1 ULTRA 4K
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1023969.ts
+
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png", Hub Premier 1 (g)
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts
 
