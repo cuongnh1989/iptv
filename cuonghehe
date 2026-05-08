@@ -61,12 +61,6 @@ https://vietanhtv.id.vn/tv360/182/index.m3u8
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/ono2tv.png", On O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vietanhtv.id.vn/tv360/136/index.m3u8
-#EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onbibi.png", On BiBi
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vietanhtv.id.vn/tv360/178/index.m3u8
-#EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732099410/a13853e5de55_480_270.png", ON Info TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vietanhtv.id.vn/tv360/189/index.m3u8
 #EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/oncine.png", ON Cine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vietanhtv.id.vn/tv360/176/index.m3u8
@@ -79,64 +73,11 @@ https://vietanhtv.id.vn/tv360/185/index.m3u8
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/viedrama.png", ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vietanhtv.id.vn/vieon/vie-dramas-hd/index.m3u8
-#EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp", ON V Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vietanhtv.id.vn/tv360/187/index.m3u8
-#EXTINF:-1 tvg-id="onkids" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onkids.png", On Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vietanhtv.id.vn/tv360/179/index.m3u8
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732652862/f124f55c3587_640_360.png", On Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vietanhtv.id.vn/tv360/188/index.m3u8
-#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON Sports HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dcda1c0511c347f8b89c1821600426ac:dbc1d4d9244f8e7d01d999d4d9f53855
-https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
-#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportscongmoi1.jpg", ON Sports+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d
-https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
-#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ootball_-_opyright_by_cab_logo_202212.jpg",  ON Football HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
-https://livevlisctcdnw.seenow.vn/mean/BONGDA_HD/manifest.mpd
-#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONSPORTSNEWS_150x904_1675158858.webp", ON Sports News
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cafb6e60c1504dfc858fd3dddc6fd20c:92061ffeb13f47c4d8879316dbc9521d
-https://livevlisctcdnw.seenow.vn/mean/THETHAO_TINTUC_HD/manifest.mpd
-#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONGOLF_150x903_1675158871.webp", ON Golf HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a323b53e0864492b0e04c70d591c564:843584bafaf2736c4fd1b76e1eee74d8
-https://livevlisctcdnw.seenow.vn/mean/THETHAO_GOLF_HD/manifest.mpd
 
-#--*.*--HTV--*.*--#
-#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv1.jpg",HTV1 HD
-https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="htv2" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv2hd.jpg",HTV2 HD
-https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv3.png",HTV3 HD
-https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htvkey.jpg",HTV Key HD
-https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv7hd.jpg",HTV7 HD
-https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist_b4200000.m3u8
-
-#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv9hd.jpg",HTV9 HD
-https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+#--*.*--SCTV--*.*--#
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.ibb.co/yBnxfhH/sctv1-hd.png",SCTV1
 https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8
@@ -259,67 +200,64 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #EXTINF:-1 group-title="S8TV", MU vs LIV
 https://3057644414.global.cdnfastest.com/live/manu-liv-prem/index.m3u8
 
-#EXTINF:-1 tvg-id="nowsports1.hk" group-title="Thể Thao Quốc Tế" tvg-logo="https://i.imgur.com/3BbhTQX.png", Now Sport EPL 1
-https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
-#EXTINF:-1 tvg-id="nowsports2.hk" group-title="Thể Thao Quốc Tế" tvg-logo="https://i.imgur.com/wkmjtNT.png", Now Sport EPL 2
-https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
-#EXTINF:-1 tvg-id="nowsports3.hk" group-title="Thể Thao Quốc Tế" tvg-logo="https://i.imgur.com/kgo9uwH.png", Now Sport EPL 3
-https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/PL4K.png" ,Hub Premier 2 4K
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/979906.ts
 
-#EXTINF:-1 tvg-id="arbeinsports1ultra4k" tvg-name="AR - BEIN SPORTS 1 ULTRA 4K" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="4K UHD SPORT",AR - BEIN SPORTS 1 ULTRA 4K
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1023969.ts
-
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png", Hub Premier 1 (g)
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-1.png", Hub Premier 1 FHD
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts
-
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-2.png", Hub Premier 2 (g)
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/hub-premier-2.png", Hub Premier 2 FHD
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57436.ts
 
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event (k)
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/premiersports.png", PREMIER SPORTS 1 FHD
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/17271.ts
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/premiersports.png", PREMIER SPORTS 2 FHD
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/266684.ts
+
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/skyfoot.png",UK - SKY SPORTS FOOTBALL FHD
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/17288.ts
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/skyamainevent.png",UK - SKY SPORTS MAIN EVENT FHD
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/17286.ts
+#EXTINF:-1 group-title="Thể Thao Quốc Tế"tvg-logo="https://go4.pw/UK/skymix.png",UK - SKY SPORTS MIX FHD
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/17284.ts
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/skypre.png",UK - SKY SPORTS PREMIER LEAGUE FHD 
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/17285.ts
+
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/tntsports.png",UK - TNT SPORTS 1 FHD
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/17281.ts
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/tntsports.png",UK - TNT SPORTS 2 FHD 
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/980406.ts
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/tntsports.png",UK - TNT SPORTS 3 FHD 
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/980407.ts
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/tntsports.png",UK - TNT SPORTS 4 FHD 
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/311556.ts
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/tntsports.png",UK - TNT SPORTS 5 FHD 
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/311558.ts
+
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event FHD
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868
-
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League (k)
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League FHD
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
-
-#EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football (k)
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football FHD
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47866
 
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 (k)
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 FHD
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/48443
-#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 (k)
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 FHD
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/48444
-#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 3 (k)
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 3 FHD
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/48445
-#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="Football" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png", DAZN 4 (k)
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png", DAZN 4 FHD
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/48446
 
-#EXTINF:-1 tvg-id="arbeinsports14k" tvg-name="AR - BEIN SPORTS 1 4K" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="4K UHD SPORT",AR - BEIN SPORTS 1 4K
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/203885.ts
-#EXTINF:-1 tvg-id="arbeinsports14k²" tvg-name="AR - BEIN SPORTS 1 4K²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="4K UHD SPORT",AR - BEIN SPORTS 1 4K²
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/552067.ts
-#EXTINF:-1 tvg-id="arbeinsports1uhd" tvg-name="AR - BEIN SPORTS 1 UHD" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="4K UHD SPORT",AR - BEIN SPORTS 1 UHD
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/149613.ts
-
-#EXTINF:-1 tvg-id="deskysportnews4k" tvg-name="DE - SKY SPORT NEWS 4K" tvg-logo="https://go4.pw/germany/sky_mix2.png" group-title="4K UHD SPORT",DE - SKY SPORT NEWS 4K
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1030378.ts
-#EXTINF:-1 tvg-id="deskysportnews4k²" tvg-name="DE - SKY SPORT NEWS 4K²" tvg-logo="https://go4.pw/germany/sky_mix2.png" group-title="4K UHD SPORT",DE - SKY SPORT NEWS 4K²
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1140267.ts
-#EXTINF:-1 tvg-id="deskysportpremierleague4k" tvg-name="DE - SKY SPORT PREMIER LEAGUE 4K" tvg-logo="https://go4.pw/germany/sky_prem2.png" group-title="4K UHD SPORT",DE - SKY SPORT PREMIER LEAGUE 4K
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1030402.ts
-#EXTINF:-1 tvg-id="deskysportpremierleague4k²" tvg-name="DE - SKY SPORT PREMIER LEAGUE 4K²" tvg-logo="https://go4.pw/germany/sky_prem2.png" group-title="4K UHD SPORT",DE - SKY SPORT PREMIER LEAGUE 4K²
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1140272.ts
-#EXTINF:-1 tvg-id="vipskysportsmainevent4k" tvg-name="VIP - SKY SPORTS MAIN EVENT 4K" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="4K UHD SPORT",VIP - SKY SPORTS MAIN EVENT 4K
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281430.ts
-
-#EXTINF:-1 tvg-id="exyuarenapremium1fhd" tvg-name="EXYU - ARENA PREMIUM 1 FHD" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="EU | EXYU | SPORTSKI KANALI",EXYU - ARENA PREMIUM 1 FHD
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png", ARENA PREMIUM 1 FHD
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/273118.ts
-#EXTINF:-1 tvg-id="exyuarenapremium2fhd" tvg-name="EXYU - ARENA PREMIUM 2 FHD" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="EU | EXYU | SPORTSKI KANALI",EXYU - ARENA PREMIUM 2 FHD
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png", ARENA PREMIUM 2 FHD
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/273119.ts
-#EXTINF:-1 tvg-id="exyuarenapremium3fhd" tvg-name="EXYU - ARENA PREMIUM 3 FHD" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="EU | EXYU | SPORTSKI KANALI",EXYU - ARENA PREMIUM 3 FHD
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png", ARENA PREMIUM 3 FHD
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/273120.ts
-#EXTINF:-1 tvg-id="exyuarenapremium4fhd" tvg-name="EXYU - ARENA PREMIUM 4 FHD" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="EU | EXYU | SPORTSKI KANALI",EXYU - ARENA PREMIUM 4 FHD
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png", ARENA PREMIUM 4 FHD
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1287060.ts
-#EXTINF:-1 tvg-id="exyuarenapremium5fhd" tvg-name="EXYU - ARENA PREMIUM 5 FHD" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png" group-title="EU | EXYU | SPORTSKI KANALI",EXYU - ARENA PREMIUM 5 FHD
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png", ARENA PREMIUM 5 FHD
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1287061.ts
 
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Aqua
