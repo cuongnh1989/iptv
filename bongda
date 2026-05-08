@@ -292,3 +292,12 @@ https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan2.tv/wp-content/uploads/2025/09/logo-hq.png", BLV Thiên Lôi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
+
+#EXTINF:-1 group-title="Phim Chiếu Rạp" tvg-logo="https://img.ophim.live/uploads/movies/tinh-nguoi-duyen-ma-nham-mak-yeu-luon-thumb.jpg", Tình Người Duyên Ma: Nhắm Mak Yêu Luôn
+https://vip.opstream90.com/20260427/30357_b3a5abfd/index.m3u8
+
+#EXTINF:-1 group-title="Phim Chiếu Rạp" tvg-logo="https://img.ophim.live/uploads/movies/avatar-3-lua-va-tro-tan-thumb.jpg", Avatar 3: Lửa và Tro Tàn
+https://vip.opstream90.com/20260330/28313_83be9a14/index.m3u8
+
+#EXTINF:-1 group-title="Phim Chiếu Rạp" tvg-logo="https://img.ophim.live/uploads/movies/thoat-khoi-tan-the-thumb.jpg", Thoát Khỏi Tận Thế
+https://vip.opstream90.com/20260425/30238_b276f01d/index.m3u8
