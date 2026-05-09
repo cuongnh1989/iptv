@@ -3,6 +3,11 @@
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/PL4K.png" ,Hub Premier 2 4K
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/979906.ts
 
+#EXTINF:-1 group-title="Hoi Quan TV",Liverpool vs Chelsea 18:30 ngày 09/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+https://tfvq1gr3uomttgr31hctwgazdoc3pxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8
+
 #EXTINF:-1 group-title="Thap Cam TV",Liverpool vs Chelsea 18:30 ngày 09/05 English Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://thapcam24h.net/
