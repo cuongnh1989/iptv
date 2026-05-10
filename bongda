@@ -64,6 +64,13 @@ http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1287060.ts
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png", ARENA PREMIUM 5 FHD
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1287061.ts
 
+#EXTINF:-1 group-title="🔴 ⚽Socolive", tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png", BLV Kem
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1778419794-0-0-74e72ab7701f01ffb2946043e9d12ec5
+#EXTINF:-1 group-title="🔴 ⚽Socolive", tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png", BLV 7Up
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1778420814-0-0-ab8a67dc6fc2d6b591ca5709177ccd54
+#EXTINF:-1 group-title="🔴 ⚽Socolive", tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png", BLV Deco
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1778421054-0-0-93c7333860c2bfa907bca969605618a2
+
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Aqua
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live5.msrktz.app/live/18812304.m3u8
