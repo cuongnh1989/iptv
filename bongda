@@ -70,6 +70,19 @@ https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1778419794-0-0-7
 https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1778420814-0-0-ab8a67dc6fc2d6b591ca5709177ccd54
 #EXTINF:-1 group-title="🔴 ⚽Socolive", tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png", BLV Deco
 https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1778421054-0-0-93c7333860c2bfa907bca969605618a2
+#EXTINF:-1 group-title="🔴 ⚽Socolive", tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png", BLV Pirlo
+https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1778421954-0-0-53b1d35bad5e346bb607c3c730264ed6
+#EXTINF:-1 group-title="🔴 ⚽Socolive", tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png", BLV Đốm
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1778422074-0-0-6303edd8da1fcd9f66485bbb614b22b3
+#EXTINF:-1 group-title="🔴 ⚽Socolive", tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png", BLV Coca
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1778422074-0-0-21b76d940390ec0ee064bb506f7400e2
+
+#EXTINF:-1 group-title="🔴 ⚽Hội Quán TV", tvg-logo="https://sv2.hoiquan3.live/logo.png", BLV Phan Mã
+https://tfvr1gr3uomttgr31hctwgazdoc3pxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽Hội Quán TV", tvg-logo="https://sv2.hoiquan3.live/logo.png", BLV Phan Hà Linh
+https://tfvr1gr3uomttgr31hctwgazdoc3pxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽Hội Quán TV", tvg-logo="https://sv2.hoiquan3.live/logo.png", BLV Lương Bổng
+https://tfvr1gr3uomttgr31hctwgazdoc3pxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Aqua
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
