@@ -3,9 +3,15 @@
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/PL4K.png" ,Hub Premier 2 4K
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/979906.ts
 
-#EXTINF:-1 group-title="S8TV",Sunderland VS Manchester United-21:00 09-05
+#EXTINF:-1 group-title="Thap Cam TV",West Ham United vs Arsenal 22:30 ngày 10/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://3057644414.global.cdnfastest.com/live/sun-mu-prem/index.m3u8
+#EXTVLCOPT:http-referrer=https://thapcam24h.net/
+https://cdn-hls.phogatv8.com/live/6a009d7951ddc_154/index.m3u8
+
+#EXTINF:-1 group-title="Bun Cha TV",West Ham United vs Arsenal 22:30 ngày 10/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/
+https://cdn-hls.taoxanh.biz/live/6a009d0042283_162172/index.m3u8
 
 #EXTINF:-1 group-title="Thể Thao Quốc Tế"  tvg-logo="https://go4.pw/UK/hubb.png",UK - HUB PREMIER 01 FHD
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/324806.ts
