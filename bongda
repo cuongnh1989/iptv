@@ -1,47 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/PL4K.png" ,Hub Premier 2 4K
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/979906.ts
-
-#EXTINF:-1 group-title="Thap Cam TV",West Ham United vs Arsenal 22:30 ngày 10/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://thapcam24h.net/
-https://cdn-hls.phogatv8.com/live/6a009d7951ddc_154/index.m3u8
-
-#EXTINF:-1 group-title="Bun Cha TV",West Ham United vs Arsenal 22:30 ngày 10/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/
-https://cdn-hls.taoxanh.biz/live/6a009d0042283_162172/index.m3u8
-
-#EXTINF:-1 group-title="Thể Thao Quốc Tế"  tvg-logo="https://go4.pw/UK/hubb.png",UK - HUB PREMIER 01 FHD
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/324806.ts
-#EXTINF:-1 group-title="Thể Thao Quốc Tế"  tvg-logo="https://go4.pw/UK/hubb.png",UK - HUB PREMIER 02 FHD
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/324807.ts
-
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/premiersports.png", PREMIER SPORTS 1 FHD
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/17271.ts
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/premiersports.png", PREMIER SPORTS 2 FHD
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/266684.ts
-
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/skyfoot.png",UK - SKY SPORTS FOOTBALL FHD
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/17288.ts
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/skyamainevent.png",UK - SKY SPORTS MAIN EVENT FHD
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/17286.ts
-#EXTINF:-1 group-title="Thể Thao Quốc Tế"tvg-logo="https://go4.pw/UK/skymix.png",UK - SKY SPORTS MIX FHD
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/17284.ts
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/skypre.png",UK - SKY SPORTS PREMIER LEAGUE FHD 
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/17285.ts
-
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/tntsports.png",UK - TNT SPORTS 1 FHD
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/17281.ts
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/tntsports.png",UK - TNT SPORTS 2 FHD 
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/980406.ts
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/tntsports.png",UK - TNT SPORTS 3 FHD 
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/980407.ts
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/tntsports.png",UK - TNT SPORTS 4 FHD 
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/311556.ts
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/UK/tntsports.png",UK - TNT SPORTS 5 FHD 
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/311558.ts
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47850
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47851
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47852
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4 
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47853
 
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event FHD
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868
@@ -49,6 +15,14 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football FHD
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47866
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/cbs-sports-network.png", CBS Sports Network 
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/15944
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/15905
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png", Bein Sports 1 
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/12554
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png", Bein Sports 2 
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/12553
 
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 FHD
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/48443
@@ -58,17 +32,6 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/48444
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/48445
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png", DAZN 4 FHD
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/48446
-
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png", ARENA PREMIUM 1 FHD
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/273118.ts
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png", ARENA PREMIUM 2 FHD
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/273119.ts
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png", ARENA PREMIUM 3 FHD
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/273120.ts
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png", ARENA PREMIUM 4 FHD
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1287060.ts
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://go4.pw/EXYU/arena-sport-1-premium.png", ARENA PREMIUM 5 FHD
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1287061.ts
 
 #EXTINF:-1 group-title="🔴 ⚽Cá Bống TV" tvg-logo="https://www.cabongtv.cc/static/index/img/vi-vn/brand_logo/logo.png", BLV Vegeta
 https://pull.dodotvstream.top/live/488015354.flv
