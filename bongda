@@ -1,37 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47850
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47851
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47852
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4 
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47853
-
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event FHD
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League FHD
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football FHD
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47866
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/cbs-sports-network.png", CBS Sports Network 
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/15944
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/15905
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png", Bein Sports 1 
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/12554
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png", Bein Sports 2 
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/12553
-
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 FHD
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/48443
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 FHD
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/48444
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 3 FHD
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/48445
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png", DAZN 4 FHD
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/48446
 
 #EXTINF:-1 group-title="🔴 ⚽Cá Bống TV" tvg-logo="https://www.cabongtv.cc/static/index/img/vi-vn/brand_logo/logo.png", BLV Vegeta
 https://pull.dodotvstream.top/live/488015354.flv
