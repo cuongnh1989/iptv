@@ -474,48 +474,59 @@ https://lstvlive.quanlehong539.workers.dev/hls/VOTONG/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://lstvlive.quanlehong539.workers.dev/hls/YENTHANH1/index.m3u8
 
+#EXTINF:-1 group-title="Bia Ôm TV",BLV Chả Giờ
+https://cdnflv.xbdbotv.live/live/htlo8wpj9qqvxo2wetljn7c7.flv
+#EXTINF:-1 group-title="Bia Ôm TV",BLV Budweiser
+https://cdnflv.xbdbotv.live/live/aqcxx25erd1mr6m5uksy2qml.flv
+#EXTINF:-1 group-title="Bia Ôm TV",BLV Khô Bò
+https://cdnflv.xbdbotv.live/live/kzjkjtphckthlcu3c45pazid.flv
+
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan3.tv/wp-content/uploads/2025/09/logo-hq.png", BLV Củ Hành 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan3.tv/wp-content/uploads/2025/09/logo-hq.png", BLV Lương Bổng 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan3.tv/wp-content/uploads/2025/09/logo-hq.png", BLV Phan Anh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phananh/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan3.tv/wp-content/uploads/2025/09/logo-hq.png", BLV Phan Bách
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchuot/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan3.tv/wp-content/uploads/2025/09/logo-hq.png", BLV Phan Ca 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan3.tv/wp-content/uploads/2025/09/logo-hq.png", BLV Phan Chớp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan3.tv/wp-content/uploads/2025/09/logo-hq.png", BLV Phan Hà Linh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan3.tv/wp-content/uploads/2025/09/logo-hq.png", BLV Phan Lâm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanlam/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanlam/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan3.tv/wp-content/uploads/2025/09/logo-hq.png", BLV Phan Mã
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan3.tv/wp-content/uploads/2025/09/logo-hq.png", BLV Phan Mão
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan3.tv/wp-content/uploads/2025/09/logo-hq.png", BLV Phan Tô
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan3.tv/wp-content/uploads/2025/09/logo-hq.png", BLV Phan Từ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan3.tv/wp-content/uploads/2025/09/logo-hq.png", BLV Thiên Lôi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_thienloi/playlist.m3u8
 
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47850
+#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 (b)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6566/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="General" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 (b)
+http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2505/index.m3u8
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47851
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 
