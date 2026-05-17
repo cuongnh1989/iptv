@@ -496,13 +496,6 @@ https://lstvlive.quanlehong539.workers.dev/hls/VOTONG/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://lstvlive.quanlehong539.workers.dev/hls/YENTHANH1/index.m3u8
 
-#EXTINF:-1 group-title="Bia Ôm TV",BLV Chả Giờ
-https://cdnflv.xbdbotv.live/live/htlo8wpj9qqvxo2wetljn7c7.flv
-#EXTINF:-1 group-title="Bia Ôm TV",BLV Budweiser
-https://cdnflv.xbdbotv.live/live/aqcxx25erd1mr6m5uksy2qml.flv
-#EXTINF:-1 group-title="Bia Ôm TV",BLV Khô Bò
-https://cdnflv.xbdbotv.live/live/kzjkjtphckthlcu3c45pazid.flv
-
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan3.tv/wp-content/uploads/2025/09/logo-hq.png", BLV Củ Hành 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
