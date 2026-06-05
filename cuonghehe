@@ -107,57 +107,43 @@ https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/VqNpntW/sctv2-hd.png",SCTV2
 https://freem3u.xyz/api/live/play.m3u8?vid=201
 #EXTINF:-1 tvg-id="sctv3hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/pwy6LhX/sctv3-hd.png",SCTV3
-https://hoiquan.dpdns.org/VTVGo/?sctv3
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv3-hd-cf3adaca
 #EXTINF:-1 tvg-id="sctv4hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/rHsWYhW/sctv4-hd.png",SCTV4
-https://hoiquan.dpdns.org/VTVGo/?sctv4
+https://liveh12vng.vtvprime.vn/hls/SCTV4/03.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/HpgQgB5/logo26072108-sctv6-hd.png",SCTV6
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/q52fk4p/logo26072108-sctv7-hd.png",SCTV7
-https://hoiquan.dpdns.org/VTVGo/?sctv7
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv7-ef7e259a
 #EXTINF:-1 tvg-id="sctv8hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/1Z8k49W/logo26072108-sctv8.png",SCTV8
-https://hoiquan.dpdns.org/VTVGo/?sctv8
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv8-c12d138b
 #EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv9.png", SCTV9
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c
-https://livevlisctcdnw.seenow.vn/mean/SCTV9/manifest.mpd
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv9-cdd19ab2
 #EXTINF:-1 tvg-id="sctv11hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/88mFbmH/logo26072108-sctv11-hd.png",SCTV11
-https://hoiquan.dpdns.org/VTVGo/?sctv11
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv11-1d565c47
 #EXTINF:-1 tvg-id="sctv12hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/hxNHc7x/logo26072108-sctv12-hd.png",SCTV12
-https://hoiquan.dpdns.org/VTVGo/?sctv12
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv12-b0d6c023
 #EXTINF:-1 tvg-id="sctv13hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/3pQsyPf/logo26072108-sctv13-hd.png",SCTV13
-https://hoiquan.dpdns.org/VTVGo/?sctv13
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv13-67f88fcb
 #EXTINF:-1 tvg-id="sctv14hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/wLKj69Q/logo26072108-sctv14-hd.png",SCTV14
-https://hoiquan.dpdns.org/VTVGo/?sctv14
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv14-789c9f45
 #EXTINF:-1 tvg-id="sctv15hd" group-title="🇻🇳| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv15.png", SCTV15 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/SCTV15HD/manifest.mpd
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv15-4aec9a9f
 #EXTINF:-1 tvg-id="sctv16hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/1KsLhCz/logo26072108-sctv16-hd.png",SCTV16
-https://hoiquan.dpdns.org/VTVGo/?sctv16
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv16-dd1535e8
 #EXTINF:-1 tvg-id="sctv17hd" group-title="🇻🇳| SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv17.png", SCTV17 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/SCTV17/manifest.mpd
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv17-hd-87f0ff9d
 #EXTINF:-1 tvg-id="sctv18hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/LY0CW6H/logo26072108-sctv18-hd.png",SCTV18
-https://hoiquan.dpdns.org/VTVGo/?sctv18
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv18-398b0b4e
 #EXTINF:-1 tvg-id="sctv19hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/5TrWMKr/logo26072108-sctv19-hd.png",SCTV19
-https://hoiquan.dpdns.org/VTVGo/?sctv19
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv19-bf00bd02
 #EXTINF:-1 tvg-id="sctv20hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/5G0DjnW/logo26072108-sctv20-hd.png",SCTV20
-https://hoiquan.dpdns.org/VTVGo/?sctv20
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv19-cb98949a
 #EXTINF:-1 tvg-id="sctv21hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/nmxNkPG/s21-hd.jpg",SCTV21
-https://hoiquan.dpdns.org/VTVGo/?sctv21
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv-21-57de221a
 #EXTINF:-1 tvg-id="sctv22hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/JK0TF38/sctv22-hd.png",SCTV22
-https://hoiquan.dpdns.org/VTVGo/?sctv22
+https://vpsttt.vietanhtv.top/sctv/mytv.php?id=sctv22-d388dc25
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/G2XQD3X/logo26072108-sctv-phim-THHD.png",SCTV Phim tổng hợp
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
-#EXTINF:-1 tvg-id="sctv4k" group-title="🇻🇳| SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV4K.webp", SCTV4K 
-https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 
 #----------*-HTV&HTVC-*----------#
 
