@@ -1,1 +1,11 @@
+#EXTM3U url-tvg="https://vnepg.site/epg.xml"
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
+
+https://livesct.vtvprime.vn/mean/VTV1_HD/manifest.mpd
+
+https://livesct.vtvprime.vn/livesnv2/VTV2_HD/manifest.mpd
+
+https://livebytsct.vtvprime.vn/livesnv2/VTV3_HD/manifest.mpd
+
+https://livebytsct.vtvprime.vn/livesnv2/VTV6/manifest.mpd
 
