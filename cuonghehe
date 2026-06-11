@@ -294,6 +294,19 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png", Sky Sports Football FHD
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47866
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1314.png",UK | Sky Sports News
+http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47870.m3u8
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1306.png",UK | Sky Sports F1
+http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47865.m3u8
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1322.png",UK | Sky Sports GOLF
+http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47867.m3u8
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/240/skychb4091.png",UK | Sky Sports Mix
+http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47869.m3u8
+
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://www.256fallowfield.co.uk/wp-content/uploads/2019/04/premier-sports-logo.png",UK | Premier Sport 1
+http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47858.m3u8
+#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://www.256fallowfield.co.uk/wp-content/uploads/2019/04/premier-sports-logo.png",UK | Premier Sport 2
+http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47859.m3u8
 
 #EXTINF:-1 group-title="Thể Thao Quốc Tế",UK - HUB PREMIER 01 FHD
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/324806.ts
