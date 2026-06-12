@@ -288,6 +288,50 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=eb4160ea553a321d899553e4e796fec2:bea5a07157e0c4d17b11ab399517f952
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png",VIP - ELEVEN SPORTS 4K
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281071.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png",VIP - TNT SPORT ULTIMATE 4K
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281083.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png",VIP - HK NOW SPORTS EPL 4K
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1301200.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png",VIP - SKY SPORTS MAIN EVENT 4K
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281430.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png",VIP - FOX SPORTS 1 4K (EVENTS ONLY)
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1436346.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png", Fox Sports 1 (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/22526
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png", Fox Sports 1 (p)
+http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/915
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox-sports-1.png", Fox Sports 1 (v)
+http://vuzemedia.xyz/live/Nestor1/Nestor1/53390.m3u8
+
+#EXTINF:-1 tvg-id="KFOX-DT.us_locals1" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox.png", Fox (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/23322
+
+#EXTINF:-1 tvg-id="KFOX-DT.us_locals1" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox.png", Fox (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/23321
+
+#EXTINF:-1 tvg-id="KFOX-DT.us_locals1" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox.png", Fox (k)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/15932
+
+#EXTINF:-1 tvg-id="KFOX-DT.us_locals1" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox.png", Fox (p)
+http://proxpanel.cc:8080/ConradWong/FAZvDyXbGe7E/1651
+
+#EXTINF:-1 tvg-id="KFOX-DT.us_locals1" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox.png", Fox (v)
+http://vuzemedia.xyz/live/Nestor1/Nestor1/317098.m3u8
+
+#EXTINF:-1 tvg-id="KFOX-DT.us_locals1" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox.png", Fox (v)
+http://vuzemedia.xyz/live/Nestor1/Nestor1/54233.m3u8
+
+#EXTINF:-1 tvg-id="KFOX-DT.us_locals1" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox.png", Fox (v)
+http://vuzemedia.xyz/live/Nestor1/Nestor1/54235.m3u8
+
+#EXTINF:-1 tvg-id="KFOX-DT.us_locals1" group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/fox.png", Fox (v)
+http://vuzemedia.xyz/live/Nestor1/Nestor1/54260.m3u8
+
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event FHD
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League FHD
