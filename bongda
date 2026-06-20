@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="⚽ K Live" tvg-logo="https://www.kglive.vip/logo.png", BLV WIINNI
+https://playklive1cc.kliveplayer.net/live/225_1781922990.flv?txSecret=5b1249b6ff7dad48f61a9a703119990c&txTime=6A3607D7
+#EXTINF:-1 group-title="⚽ K Live" tvg-logo="https://www.kglive.vip/logo.png", BLV SOUTHMAN
+https://playklive1cc.kliveplayer.net/live/245_1781923000.flv?txSecret=0a3cb09e5ca4ef89367a463b61446d80&txTime=6A360854
+#EXTINF:-1 group-title="⚽ K Live" tvg-logo="https://www.kglive.vip/logo.png", BLV BIMBIM
+https://playklive1cc.kliveplayer.net/live/216_1781921758.flv?txSecret=ef4bf76651b2d74f443d62dbc1cdbc16&txTime=6A3608A6
+#EXTINF:-1 group-title="⚽ K Live" tvg-logo="https://www.kglive.vip/logo.png", BLV ADAM
+https://playklive1cc.kliveplayer.net/live/189_1781922874.flv?txSecret=f790ccce6a429130a81a68b02089e99b&txTime=6A3608CD
+
 #EXTM3U url-tvg="https://vnepg.site/epg.xml" m3uautoload=1 
 #EXTINF:-1 tvg-id="onsports" group-title="VTV/VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON SPORTS 
 #KODIPROP:inputstream=inputstream.adaptive 
