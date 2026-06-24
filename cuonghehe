@@ -23,6 +23,9 @@ http://pk79.io.vn/tv360/play.php?id=10043
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://raw.githubusercontent.com/cuongnh1989/iptv/main/logo/vtv6.png", VTV6 Link 3
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
 
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://raw.githubusercontent.com/cuongnh1989/iptv/main/logo/vtv6.png", VTV6 Link 4
+https://vtvgolive-vtv02.vtvdigital.vn/uum-2J-mAs5ZLQMc8eQOSw/1782297158/hls/vtv/live/vtv6__vtv1080p-h264/index.m3u8
+
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳| VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv7.png",VTV7
 https://live-a.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
 
