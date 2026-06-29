@@ -30,6 +30,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10043
 https://vtvgolive-vtv02.vtvdigital.vn/uum-2J-mAs5ZLQMc8eQOSw/1782297158/hls/vtv/live/vtv6__vtv720p-h264/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://raw.githubusercontent.com/cuongnh1989/iptv/main/logo/vtv6.png", VTV6 Link 5
+https://freem3u.xyz/api/live/play.m3u8?vid=180
 https://sgchill.duckdns.org/source/tv360.m3u8?id=10043
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳| VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv7.png",VTV7
@@ -80,9 +81,11 @@ https://hoiquan.dpdns.org/VTVGo/?kenh-tieng-anh-2
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
 https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
 http://pk79.io.vn/tv360/play.php?id=180
+https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="onviedramas" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
 http://pk79.io.vn/tv360/play.php?id=177
+https://freem3u.xyz/api/live/play.m3u8?vid=177
 
 #EXTINF:-1 tvg-id="onsports" group-title="🇻🇳| VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON SPORTS 
 #KODIPROP:inputstream=inputstream.adaptive 
