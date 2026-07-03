@@ -1,13 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="⚽ K Live" tvg-logo="https://www.kglive.vip/logo.png", BLV WIINNI
-https://playklive1cc.kliveplayer.net/live/225_1781922990.flv?txSecret=5b1249b6ff7dad48f61a9a703119990c&txTime=6A3607D7
-#EXTINF:-1 group-title="⚽ K Live" tvg-logo="https://www.kglive.vip/logo.png", BLV SOUTHMAN
-https://playklive1cc.kliveplayer.net/live/245_1781923000.flv?txSecret=0a3cb09e5ca4ef89367a463b61446d80&txTime=6A360854
-#EXTINF:-1 group-title="⚽ K Live" tvg-logo="https://www.kglive.vip/logo.png", BLV BIMBIM
-https://playklive1cc.kliveplayer.net/live/216_1781921758.flv?txSecret=ef4bf76651b2d74f443d62dbc1cdbc16&txTime=6A3608A6
-#EXTINF:-1 group-title="⚽ K Live" tvg-logo="https://www.kglive.vip/logo.png", BLV ADAM
-https://playklive1cc.kliveplayer.net/live/189_1781922874.flv?txSecret=f790ccce6a429130a81a68b02089e99b&txTime=6A3608CD
+#EXTINF:0 group-title="Chủ Tịch Tập Sự" tvg-logo="https://phimimg.com/upload/vod/20260531-1/33c234df337af20625ef6b255580cbae.jpg". Chủ Tịch Tập Sự Tập 01
+https://v7.kkphimplayer7.com/20260530/bYmoUlAo/index.m3u8
+#EXTINF:0 group-title="Chủ Tịch Tập Sự" tvg-logo="https://phimimg.com/upload/vod/20260531-1/33c234df337af20625ef6b255580cbae.jpg". Chủ Tịch Tập Sự Tập 02
+https://v7.kkphimplayer7.com/20260531/1rDlUUax/index.m3u8
+#EXTINF:0 group-title="Chủ Tịch Tập Sự" tvg-logo="https://phimimg.com/upload/vod/20260531-1/33c234df337af20625ef6b255580cbae.jpg". Chủ Tịch Tập Sự Tập 03
+https://v7.kkphimplayer7.com/20260606/WJf3bx6s/index.m3u8
+#EXTINF:0 group-title="Chủ Tịch Tập Sự" tvg-logo="https://phimimg.com/upload/vod/20260531-1/33c234df337af20625ef6b255580cbae.jpg". Chủ Tịch Tập Sự Tập 04
+https://v7.kkphimplayer7.com/20260607/YeMmGH0t/index.m3u8
+#EXTINF:0 group-title="Chủ Tịch Tập Sự" tvg-logo="https://phimimg.com/upload/vod/20260531-1/33c234df337af20625ef6b255580cbae.jpg". Chủ Tịch Tập Sự Tập 05
+https://v7.kkphimplayer7.com/20260613/2LmD2026/index.m3u8
+#EXTINF:0 group-title="Chủ Tịch Tập Sự" tvg-logo="https://phimimg.com/upload/vod/20260531-1/33c234df337af20625ef6b255580cbae.jpg". Chủ Tịch Tập Sự Tập 06
+https://v7.kkphimplayer7.com/20260615/uH4kSqNi/index.m3u8
+#EXTINF:0 group-title="Chủ Tịch Tập Sự" tvg-logo="https://phimimg.com/upload/vod/20260531-1/33c234df337af20625ef6b255580cbae.jpg". Chủ Tịch Tập Sự Tập 07
+https://v7.kkphimplayer7.com/20260620/avcwiyj6/index.m3u8
+#EXTINF:0 group-title="Chủ Tịch Tập Sự" tvg-logo="https://phimimg.com/upload/vod/20260531-1/33c234df337af20625ef6b255580cbae.jpg". Chủ Tịch Tập Sự Tập 08
+https://v7.kkphimplayer7.com/20260621/vL5MJqFn/index.m3u8
+#EXTINF:0 group-title="Chủ Tịch Tập Sự" tvg-logo="https://phimimg.com/upload/vod/20260531-1/33c234df337af20625ef6b255580cbae.jpg". Chủ Tịch Tập Sự Tập 09
+https://v7.kkphimplayer7.com/20260627/zGFA2DvF/index.m3u8
+#EXTINF:0 group-title="Chủ Tịch Tập Sự" tvg-logo="https://phimimg.com/upload/vod/20260531-1/33c234df337af20625ef6b255580cbae.jpg". Chủ Tịch Tập Sự Tập 10
+https://v7.kkphimplayer7.com/20260628/WRfwDRE5/index.m3u8
+
 
 #EXTM3U url-tvg="https://vnepg.site/epg.xml" m3uautoload=1 
 #EXTINF:-1 tvg-id="onsports" group-title="VTV/VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON SPORTS 
