@@ -575,4 +575,30 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/12554
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png", Bein Sports 2 
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/12553
 
+#EXTINF:-1 tvg-logo="https://live03.chuoichientv.me/images/logo/logo.png" group-title="Chuối Chiên TV", BLV Chuối Bơ
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://live03.chuoichientv.me/images/logo/logo.png" group-title="Chuối Chiên TV", BLV Chuối Nhỏ
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://live03.chuoichientv.me/images/logo/logo.png" group-title="Chuối Chiên TV", BLV Trốc Tru
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://live03.chuoichientv.me/images/logo/logo.png" group-title="Chuối Chiên TV", BLV Chuối Tây
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://live03.chuoichientv.me/images/logo/logo.png" group-title="Chuối Chiên TV", BLV A Ngao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://live03.chuoichientv.me/images/logo/logo.png" group-title="Chuối Chiên TV", BLV Chuối Già
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://live03.chuoichientv.me/images/logo/logo.png" group-title="Chuối Chiên TV", BLV Chuối Chao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
