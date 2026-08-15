@@ -393,6 +393,9 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/12554
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png", Bein Sports 2 
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/12553
 
+#EXTINF:-1 tvg-logo="https://phaohoa1.live/images/logo-220.webp?v=20260722-3" group-title="Chuối Chiên TV", BLV A Heo
+https://luong.phaohoa.live/live/phaohoa7/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://live03.chuoichientv.me/images/logo/logo.png" group-title="Chuối Chiên TV", BLV Chuối To
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
