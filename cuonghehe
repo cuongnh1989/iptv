@@ -390,7 +390,32 @@ https://luong.phaohoa.live/live/phaohoa3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luong.phaohoa.live/live/phaohoa7/index.m3u8
 
-
+#EXTINF:-1 group-title="🔴 VUA SÂN CỎ TV",BLV Lưu Triệt
+https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
+#EXTINF:-1 group-title="🔴 VUA SÂN CỎ TV",BLV Trần Hoàng
+https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
+#EXTINF:-1 group-title="🔴 VUA SÂN CỎ TV",BLV Tào Duệ
+https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
+#EXTINF:-1 group-title="🔴 VUA SÂN CỎ TV",BLV Dương Kiên
+https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
+#EXTINF:-1 group-title="🔴 VUA SÂN CỎ TV",BLV Ngô Quyền
+https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
+#EXTINF:-1 group-title="🔴 VUA SÂN CỎ TV",BLV Lưu Bang
+https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
+#EXTINF:-1 group-title="🔴 VUA SÂN CỎ TV",BLV Lê Hoàn
+https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
+#EXTINF:-1 group-title="🔴 VUA SÂN CỎ TV",BLV Phổ Nghi
+https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
+#EXTINF:-1 group-title="🔴 VUA SÂN CỎ TV",BLV Tào Phi
+https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
+#EXTINF:-1 group-title="🔴 VUA SÂN CỎ TV",BLV Trần Hoàng
+https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
+#EXTINF:-1 group-title="🔴 VUA SÂN CỎ TV",BLV Lê Lợi
+https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
+#EXTINF:-1 group-title="🔴 VUA SÂN CỎ TV",BLV Huyền Diệp
+https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
+#EXTINF:-1 group-title="🔴 VUA SÂN CỎ TV",BLV Dương Kiên
+https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live03.chuoichientv.me/images/logo/logo.png" group-title="🔴 ⚽ 🏀 Chuối Chiên TV", BLV Chuối To
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
