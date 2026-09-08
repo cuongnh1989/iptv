@@ -40,8 +40,9 @@ https://vips-livecdn.fptplay.net/live/media/quocphongvn/live-hls-avc/index.m3u8
 #EXTINF:0 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv1.png",VTV1 MPD
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="4K",Love Nature 4K 
+#EXTINF:-1 tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="🇻🇳| VTV",Love Nature 4K 
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+
 #----------*-VTVCAB-*----------#
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
