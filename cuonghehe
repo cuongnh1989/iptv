@@ -298,17 +298,6 @@ https://vmttv.dpdns.org/tv360/?id=tv360-13
 #KODIPROP:inputstream.adaptive.license_key=e57b008cedba5d12a192e66152bb61ca:a4b58d543b1c042f8b399f268040b623
 https://vmttv.dpdns.org/tv360/?id=tv360-14
 
-#EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png",VIP - ELEVEN SPORTS 4K
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281071.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png",VIP - TNT SPORT ULTIMATE 4K
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281083.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png",VIP - HK NOW SPORTS EPL 4K
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1301200.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png",VIP - SKY SPORTS MAIN EVENT 4K
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281430.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png",VIP - FOX SPORTS 1 4K (EVENTS ONLY)
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1436346.m3u8
-
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event FHD
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png", Sky Sports Premier League FHD
