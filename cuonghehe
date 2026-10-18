@@ -50,32 +50,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="onviedramas" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 https://freem3u.xyz/api/live/play.m3u8?vid=177
 
-#EXTINF:-1 tvg-id="onsports" group-title="🇻🇳| VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON SPORTS 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv264/manifest.mpd
-#EXTINF:-1 tvg-id="onsportsplus" group-title="🇻🇳| VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportscongmoi1.jpg", ON SPORTS+ 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv311/manifest.mpd
-#EXTINF:-1 tvg-id="onfootball" group-title="🇻🇳| VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ootball_-_opyright_by_cab_logo_202212.jpg", ON FOOTBALL 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv265/manifest.mpd
-#EXTINF:-1 tvg-id="onsportsnews" group-title="🇻🇳| VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONSPORTSNEWS_150x904_1675158858.webp", ON SPORTS NEWS 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv496/manifest.mpd 
-#EXTINF:-1 tvg-id="ongolf" group-title="🇻🇳| VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONGOLF_150x903_1675158871.webp", ON GOLF 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv485/manifest.mpd
-
 #EXTINF:-1 tvg-id="onphimviet" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
 https://freem3u.xyz/api/live/play.m3u8?vid=175
 #EXTINF:-1 tvg-id="onmovies" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
@@ -298,20 +272,6 @@ https://vmttv.dpdns.org/tv360/?id=tv360-13
 #KODIPROP:inputstream.adaptive.license_key=e57b008cedba5d12a192e66152bb61ca:a4b58d543b1c042f8b399f268040b623
 https://vmttv.dpdns.org/tv360/?id=tv360-14
 
-#EXTINF:-1 group-title="Thể Thao Quốc Tế", DAZN 1
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31954/index.m3u8
-
-#EXTINF:-1 group-title="Thể Thao Quốc Tế", Sky Sports Main Event
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9308/index.m3u8
-
-#EXTINF:-1 group-title="Thể Thao Quốc Tế", Sky Sports Premier League
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9334/index.m3u8
-
-#EXTINF:-1 group-title="Thể Thao Quốc Tế", Arena Sport 1
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/7263/index.m3u8
-
-#EXTINF:-1 group-title="Thể Thao Quốc Tế", V Sport Premium
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/12079/index.m3u8
 
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event FHD
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868
@@ -321,59 +281,11 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
 http://kstv.us:8080/jimmyrhale/JE1974aa$$/47866
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1314.png",UK | Sky Sports News
 http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47870.m3u8
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1306.png",UK | Sky Sports F1
-http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47865.m3u8
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1322.png",UK | Sky Sports GOLF
-http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47867.m3u8
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/240/skychb4091.png",UK | Sky Sports Mix
-http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47869.m3u8
 
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://www.256fallowfield.co.uk/wp-content/uploads/2019/04/premier-sports-logo.png",UK | Premier Sport 1
 http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47858.m3u8
 #EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://www.256fallowfield.co.uk/wp-content/uploads/2019/04/premier-sports-logo.png",UK | Premier Sport 2
 http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47859.m3u8
-
-#EXTINF:-1 group-title="Thể Thao Quốc Tế",UK - HUB PREMIER 01 FHD
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/324806.ts
-#EXTINF:-1 group-title="Thể Thao Quốc Tế",UK - HUB PREMIER 02 FHD
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/324807.ts
-#EXTINF:-1 group-title="Thể Thao Quốc Tế",UK - HUB PREMIER 03 FHD
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/324808.ts
-#EXTINF:-1 group-title="Thể Thao Quốc Tế",UK - HUB PREMIER 04 FHD
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/324809.ts
-
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-1.png", DAZN 1 FHD
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/48443
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-2.png", DAZN 2 FHD
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/48444
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-3.png", DAZN 3 FHD
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/48445
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/dazn-4.png", DAZN 4 FHD
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/48446
-
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 a
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47850
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 b
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/6566/index.m3u8
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 c
-http://11374b1a.edemist.com/iptv/2SXSBE6GL5QXEU/2505/index.m3u8
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-2.png", TNT Sports 2 
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47851
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-3.png", TNT Sports 3 
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47852
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tnt-sports-4.png", TNT Sports 4 
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47853
-
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/cbs-sports-network.png", CBS Sports Network 
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/15944
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/usa-network.png", USA Network
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/15905
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-1.png", Bein Sports 1 
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/12554
-#EXTINF:-1 group-title="Thể Thao Quốc Tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/bein-sports-2.png", Bein Sports 2 
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/12553
-
-
 
 #EXTINF:-1 group-title="🔴 VUA SÂN CỎ TV",BLV Lưu Triệt
 https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
@@ -402,27 +314,30 @@ https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
 #EXTINF:-1 group-title="🔴 VUA SÂN CỎ TV",BLV Dương Kiên
 https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://live03.chuoichientv.me/images/logo/logo.png" group-title="🔴 ⚽ 🏀 Chuối Chiên TV", BLV Chuối Say
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live03.chuoichientv.me/images/logo/logo.png" group-title="🔴 ⚽ 🏀 Chuối Chiên TV", BLV Chuối To
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live03.chuoichientv.me/images/logo/logo.png" group-title="🔴 ⚽ 🏀 Chuối Chiên TV", BLV Chuối Nhỏ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live03.chuoichientv.me/images/logo/logo.png" group-title="🔴 ⚽ 🏀 Chuối Chiên TV", BLV Chuối Kem
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live03.chuoichientv.me/images/logo/logo.png" group-title="🔴 ⚽ 🏀 Chuối Chiên TV", BLV Chuối Lá
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live03.chuoichientv.me/images/logo/logo.png" group-title="🔴 ⚽ 🏀 Chuối Chiên TV", BLV Trốc Tru
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live03.chuoichientv.me/images/logo/logo.png" group-title="🔴 ⚽ 🏀 Chuối Chiên TV", BLV Chuối Tây
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live03.chuoichientv.me/images/logo/logo.png" group-title="🔴 ⚽ 🏀 Chuối Chiên TV", BLV A Ngao
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live03.chuoichientv.me/images/logo/logo.png" group-title="🔴 ⚽ 🏀 Chuối Chiên TV", BLV Chuối Già
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live03.chuoichientv.me/images/logo/logo.png" group-title="🔴 ⚽ 🏀 Chuối Chiên TV", BLV Chuối Chao
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Aqua
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -506,24 +421,3 @@ https://live05.meung.app/live/90865415.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live05.meung.app/live/78905744.m3u8
 
-#EXTINF:-1 group-title="🔴 ⚽ 🏐 PHÁO HOA TV" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV Chim Nhỏ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa5/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ 🏐 PHÁO HOA TV" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV KaKa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa6/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ 🏐 PHÁO HOA TV" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV Ken
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ 🏐 PHÁO HOA TV" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV Kevin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa2/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ 🏐 PHÁO HOA TV" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV Pháo Thủ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa4/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ 🏐 PHÁO HOA TV" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV Văn Minh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa3/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ 🏐 PHÁO HOA TV" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV A Heo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa7/index.m3u8
